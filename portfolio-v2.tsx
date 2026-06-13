@@ -218,9 +218,9 @@ export default function PortfolioV2() {
         <div className="container mx-auto px-4 flex justify-between items-center h-16">
           <div className="flex items-center gap-2">
             <div className="w-10 h-10 rounded-full bg-gradient-to-br from-teal-400 to-indigo-500 flex items-center justify-center text-white font-bold">
-              TO
+              NT
             </div>
-            <span className="font-bold text-xl hidden sm:block">Tochukwu Onuoha</span>
+            <span className="font-bold text-xl hidden sm:block">Nyikwagh Terngu Terry</span>
           </div>
 
           {/* Desktop Navigation */}
@@ -310,12 +310,12 @@ export default function PortfolioV2() {
                 <h1 className="text-4xl md:text-6xl font-bold mb-4">
                   Hello, I'm{" "}
                   <span className="bg-gradient-to-r from-teal-500 to-indigo-500 bg-clip-text text-transparent">
-                    Tochukwu Onuoha
+                    Nyikwagh Terngu Terry
                   </span>
                 </h1>
                 <p className="text-xl text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
-                  Full-stack developer passionate about creating innovative web solutions and exceptional user
-                  experiences.
+                  Full-Stack Developer | React, FastAPI, PostgreSQL
+                          Building healthcare systems that actually matter.
                 </p>
                 <div className="flex flex-wrap gap-4">
                   <Button
@@ -324,7 +324,7 @@ export default function PortfolioV2() {
                   >
                     View Projects <ArrowRight className="ml-2 h-4 w-4" />
                   </Button>
-                  <a href="https://drive.google.com/file/d/1cqRBhy-9aaq12XLL1mhLHCTAONUti0Kw/view?usp=sharing">  <Button variant="outline" className="border-gray-300 dark:border-gray-700">
+                  <a href="https://docs.google.com/document/d/1jD4e37x2PPrJjetPzgB03uGFZ12zkd_v/edit?usp=drive_link&ouid=106000859908751801039&rtpof=true&sd=true/">  <Button variant="outline" className="border-gray-300 dark:border-gray-700">
                     Download CV
                   </Button>
                   
@@ -334,7 +334,7 @@ export default function PortfolioV2() {
 
                 <div className="mt-12 flex gap-4">
                   <a
-                    href="https://github.com/tochi2055"
+                    href="https://github.com/Terry-victor/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-2 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-300 hover:text-teal-500 dark:hover:text-teal-400 transition-colors"
@@ -342,7 +342,7 @@ export default function PortfolioV2() {
                     <Github size={20} />
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/tochukwu-onuoha-3b1821240/"
+                    href="https://www.linkedin.com/in/terry-nyikwagh-83155a16b?utm_source=share_via&utm_content=profile&utm_medium=member_ios/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-2 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-300 hover:text-teal-500 dark:hover:text-teal-400 transition-colors"
@@ -350,7 +350,7 @@ export default function PortfolioV2() {
                     <Linkedin size={20} />
                   </a>
                   <a
-                    href="mailto:tochukwu.onuoha@example.com"
+                    href="mailto:nyikwagh.terry@example.com"
                     className="p-2 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-300 hover:text-teal-500 dark:hover:text-teal-400 transition-colors"
                   >
                     <Mail size={20} />
@@ -370,8 +370,8 @@ export default function PortfolioV2() {
                     <div className="relative">
                       <div className="w-72 h-72 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-2xl">
                         <img
-                          src="/adc0e920-40b9-4041-b9b9-37044e38abdb.jpeg?height=320&width=320"
-                          alt="Tochukwu Onuoha"
+                          src="/WhatsApp Image 2026-06-13 at 01.04.34.jpeg?height=320&width=320"
+                          alt="Nyikwagh Terngu Terry"
                           className="w-full h-full object-cover"
                         />
                       </div>
@@ -423,7 +423,7 @@ export default function PortfolioV2() {
 
                 <div className="grid grid-cols-2 gap-4 mt-8">
                   <div className="p-4 rounded-lg bg-white dark:bg-gray-800 shadow-sm">
-                    <div className="text-3xl font-bold text-teal-500 dark:text-teal-400 mb-1">9+</div>
+                    <div className="text-3xl font-bold text-teal-500 dark:text-teal-400 mb-1">4+</div>
                     <div className="text-gray-600 dark:text-gray-300">Years of experience</div>
                   </div>
                   <div className="p-4 rounded-lg bg-white dark:bg-gray-800 shadow-sm">
@@ -588,8 +588,8 @@ export default function PortfolioV2() {
           </div>
         </section>
 
-        {/* Certifications Section */}
-        <section id="contact" className="py-20">
+       
+        {/* <section id="contact" className="py-20">
           <div className="container mx-auto px-4">
             <div className="max-w-3xl mx-auto text-center mb-16">
               <Badge className="mb-4 bg-teal-500/10 text-teal-500 dark:bg-teal-400/10 dark:text-teal-400">
@@ -842,8 +842,8 @@ export default function PortfolioV2() {
                 </Button>
               </div>
             </div>
-          </div>
-        </section>
+          </div> */}
+        {/* </section> */}
       </main>
 
       {/* Footer */}
@@ -854,16 +854,16 @@ export default function PortfolioV2() {
               <div className="w-8 h-8 rounded-full bg-gradient-to-br from-teal-400 to-indigo-500 flex items-center justify-center text-white font-bold text-xs">
                 TO
               </div>
-              <span className="font-bold">Tochukwu Onuoha</span>
+              <span className="font-bold">Nyikwagh terngu</span>
             </div>
 
             <div className="text-gray-500 dark:text-gray-400 text-sm">
-              © {new Date().getFullYear()} Tochukwu Onuoha. All rights reserved.
+              © {new Date().getFullYear()} Nyikwagh Terngu Terry. All rights reserved.
             </div>
 
             <div className="flex gap-4 mt-4 md:mt-0">
               <a
-                href="https://github.com/tochi2055"
+                href="https://github.com/Terry-victor/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-500 dark:text-gray-400 hover:text-teal-500 dark:hover:text-teal-400 transition-colors"
@@ -871,7 +871,7 @@ export default function PortfolioV2() {
                 <Github size={18} />
               </a>
               <a
-                href="https://www.linkedin.com/in/tochukwu-onuoha-3b1821240/"
+                href="https://www.linkedin.com/in/terry-nyikwagh-83155a16b?utm_source=share_via&utm_content=profile&utm_medium=member_ios/in/tochukwu-onuoha-3b1821240/" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-500 dark:text-gray-400 hover:text-teal-500 dark:hover:text-teal-400 transition-colors"
@@ -879,7 +879,7 @@ export default function PortfolioV2() {
                 <Linkedin size={18} />
               </a>
               <a
-                href="mailto:tochukwu.onuoha@example.com"
+                href="mailto:nyikwagh.terngu@example.com"
                 className="text-gray-500 dark:text-gray-400 hover:text-teal-500 dark:hover:text-teal-400 transition-colors"
               >
                 <Mail size={18} />
